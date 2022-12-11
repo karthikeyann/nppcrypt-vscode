@@ -2,8 +2,7 @@
 
 All notable changes to the "nppcrypt" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+- Initial release - Works in Apple Mac M1 Silicon.\
+  Public Windows, Linux version may have issues on decryption failure, due to a bug fix.
