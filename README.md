@@ -1,6 +1,6 @@
-# nppcrypt README
+# nppcrypt-vscode 
 
-nppcrypt is VS Code version of https://github.com/karthikeyann/nppcrypt (with Mac support).
+nppcrypt is VS Code extension of https://github.com/karthikeyann/nppcrypt (with Mac support).
 
 Originally found at https://github.com/jeanpaulrichter/nppcrypt. Since Notepad++ is not available in Mac, nppcrypt cli is compiled for Mac M1 and released as VS code extension.
 
@@ -20,10 +20,10 @@ Commands available are
 
 ## Requirements
 
-Tested in Mac OS Apple Silicon M1.
-TBD Windows
-TBD Linux
-TBD Apple Intel
+- Tested in Mac OS Apple Silicon M1.
+- TBD Windows
+- TBD Linux
+- TBD Apple Intel
 
 ## Extension Settings
 
