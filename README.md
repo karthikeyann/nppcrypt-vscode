@@ -1,4 +1,5 @@
 # nppcrypt-vscode 
+Available at https://marketplace.visualstudio.com/items?itemName=karthikeyann.nppcrypt
 
 nppcrypt is VS Code extension of https://github.com/karthikeyann/nppcrypt (with Mac support).
 
